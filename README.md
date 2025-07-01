@@ -33,7 +33,7 @@ Technologies: Python, PyQt5, Machine Learning, Data Visualization
 Status: Completed
 
 Education:
-I am a third-year BTech student specializing in Artificial Intelligence and Data Science, eager to apply my knowledge and experience to real-world challenges.
+I am a fourth-year BTech student specializing in Artificial Intelligence and Data Science, eager to apply my knowledge and experience to real-world challenges.
 
 
 
